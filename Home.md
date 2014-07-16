@@ -2,7 +2,7 @@
 
 You also can custom the toolbar button menu item in preference panel.
 
-One line one menu item. The format is a colon separate menu label and a user agent string, line starts with `#` is comment. Empty line, comment and other invalid format will be ignored.
+One line one menu item. The format is a colon `:` separate menu label and a user agent string, line starts with `#` is comment. Empty line, comment and other invalid format will be ignored.
 
     # Linux
     Linux / Firefox 29: Mozilla/5.0 (X11; Linux x86_64; rv:29.0) Gecko/20100101 Firefox/29.0
